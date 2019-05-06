@@ -1,0 +1,11 @@
+{
+  "name": "tic-tok",
+  "version": "1.0.0",
+  "description": "a multiplay tic tok game palyed in real time and can be seen by others",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sanket Singh",
+  "license": "ISC"
+}
